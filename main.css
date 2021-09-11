@@ -1,0 +1,34 @@
+*{
+    margin:0% ;
+    padding:0%;
+    font-family: sans-serif;
+    /* background-image: url("bg.png"); */
+}
+.banner{
+   
+     width:85%;
+     margin: auto;
+     padding: 35px;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+.banner ul li{
+   list-style: none;
+    display: inline-block;
+    margin: 0 138.25px;
+    font-size: 35;
+    justify-content: space-between;
+    align-items: center;
+}
+.banner a{
+    text-decoration: none;
+}
+.logo{
+ margin-left: 8cm;
+ margin-right: 5cm;
+ 
+}
+
+
+
